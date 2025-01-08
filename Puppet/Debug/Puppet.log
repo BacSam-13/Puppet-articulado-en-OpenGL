@@ -1,0 +1,18 @@
+﻿  Source.cpp
+C:\Users\baruc_exg6uws\OneDrive\Escritorio\Gráficas por Computadora\PROYECTO\Puppet\Puppet\src\Source.cpp(250,21): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\baruc_exg6uws\OneDrive\Escritorio\Gráficas por Computadora\PROYECTO\Puppet\Puppet\src\Source.cpp(254,20): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\baruc_exg6uws\OneDrive\Escritorio\Gráficas por Computadora\PROYECTO\Puppet\Puppet\src\Source.cpp(255,20): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\baruc_exg6uws\OneDrive\Escritorio\Gráficas por Computadora\PROYECTO\Puppet\Puppet\src\Source.cpp(256,20): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\baruc_exg6uws\OneDrive\Escritorio\Gráficas por Computadora\PROYECTO\Puppet\Puppet\src\Source.cpp(259,19): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\baruc_exg6uws\OneDrive\Escritorio\Gráficas por Computadora\PROYECTO\Puppet\Puppet\src\Source.cpp(265,20): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\baruc_exg6uws\OneDrive\Escritorio\Gráficas por Computadora\PROYECTO\Puppet\Puppet\src\Source.cpp(269,20): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\baruc_exg6uws\OneDrive\Escritorio\Gráficas por Computadora\PROYECTO\Puppet\Puppet\src\Source.cpp(270,20): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\baruc_exg6uws\OneDrive\Escritorio\Gráficas por Computadora\PROYECTO\Puppet\Puppet\src\Source.cpp(274,17): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\baruc_exg6uws\OneDrive\Escritorio\Gráficas por Computadora\PROYECTO\Puppet\Puppet\src\Source.cpp(276,17): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\baruc_exg6uws\OneDrive\Escritorio\Gráficas por Computadora\PROYECTO\Puppet\Puppet\src\Source.cpp(279,20): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\baruc_exg6uws\OneDrive\Escritorio\Gráficas por Computadora\PROYECTO\Puppet\Puppet\src\Source.cpp(280,20): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\baruc_exg6uws\OneDrive\Escritorio\Gráficas por Computadora\PROYECTO\Puppet\Puppet\src\Source.cpp(281,20): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\baruc_exg6uws\OneDrive\Escritorio\Gráficas por Computadora\PROYECTO\Puppet\Puppet\src\Source.cpp(289,19): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\baruc_exg6uws\OneDrive\Escritorio\Gráficas por Computadora\PROYECTO\Puppet\Puppet\src\Source.cpp(290,19): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\baruc_exg6uws\OneDrive\Escritorio\Gráficas por Computadora\PROYECTO\Puppet\Puppet\src\Source.cpp(291,19): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  Puppet.vcxproj -> C:\Users\baruc_exg6uws\OneDrive\Escritorio\Gráficas por Computadora\PROYECTO\Puppet\Debug\Puppet.exe
